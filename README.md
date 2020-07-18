@@ -9,3 +9,7 @@ Inicialicé los requerimientos de las librerías a través del archivo requireme
 El enviroment se activa ejecutando 
 
 `conda activate py-analysis-env`
+
+Vamos a trabajar en la rama de develop y luego pasar a la rama master cuando esté todo listo.
+
+Para hacer el testing usamos la herramienta TMC: https://github.com/testmycode/tmc-cli
